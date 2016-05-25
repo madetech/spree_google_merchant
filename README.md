@@ -6,14 +6,14 @@
 Provides an up-to-date RSS product feed for Google Merchant rather a file that you have to upload. This is a very basic extension so feel free to help improve it!
 
 To test and access the RSS feed visit:
-`http://locahost:3000/google_merchant.rss`
+`http://localhost:3000/google_merchant.rss`
 
 ## Installation & Usage
 
 To start with you'll need a Google Merchant account. Then, add the gem to your `Gemfile`
 
 ```ruby
-gem "spree_google_merchant", github: 'boombotix/spree_google_merchant.git'
+gem "spree_google_merchant", github: 'boombotix/spree_google_merchant'
 ```
 
 Then bundle
